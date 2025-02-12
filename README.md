@@ -18,3 +18,12 @@ You can unzip and import them into a database or use them as is for analysis.
 - **30_day_twitch_data.csv**: Historical Twitch data sourced from [Sullygnome.com](https://sullygnome.com/) on the top 300 games over 30 days.
 - **14_day_twitch_data.csv**: Historical Twitch data sourced from [Sullygnome.com](https://sullygnome.com/) on the top 4,000 games over 14 days.
 - **categories.csv**: Information about the different Steam categories that games belong to (e.g., "Single-player", "Full controller support", etc.).
+
+## Insights
+
+These files contain our insights presented in a Power BI dashboard and a Powerpoint presentation. We found that multiplayer games, especialy those designed around e-sports, had high playtime numbers which denoted good retention of players. On the twitch front, we found there was some overlap between games played and watched, especially e-sports titles. Though, there were exceptions to this rule, some less played titles performed well on Twitch. Overall, we recommended stakeholders to invest in free-to-play e-sports based titles, partnering with Twitch streamers to introduce new players into their ecosystems, and using broadcast e-sports leagues to drive player retention. The files are also zipped 
+for easy downloading. 
+
+-**Capstone_Wes_PBI**: The .pbix file for the capstone
+-**Capstone_Wes_pdf**: A PDF file for the capstone
+-**Steam_and_Twitch_Capstone**: A Powerpoint presentation made to provide context for our insights.
